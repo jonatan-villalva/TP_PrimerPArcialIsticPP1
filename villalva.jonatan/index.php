@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>ESTACIONAMIENTO VILLALVA S.A </title>
+    <title>ESTACIONAMIENTO EL TRECE </title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap.min.css" rel="stylesheet">
@@ -21,7 +21,7 @@
     <header>
       <!-- Fixed navbar -->
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="index.php">ESTACIONAMIENTO VILLALVA S.A</a>
+        <a class="navbar-brand" href="index.php">ESTACIONAMIENTO EL TRECE</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -47,8 +47,8 @@
 
     <!-- Begin page content -->
     <main role="main" class="container">
-      <h1 class="mt-5">ESTACIONAMIENTO VILLALVA S.A </h1>
-      <img src="https://parquechasweb.com.ar/wp-content/uploads/2017/02/estacionar-gr-800x445.jpg" width=100 height=100><img src="https://laverdadonline.com/wp-content/uploads/2018/10/autos.jpg" width=400 height=300><img src="https://parquechasweb.com.ar/wp-content/uploads/2017/02/estacionar-gr-800x445.jpg" width=100 height=100>
+      <h1 class="mt-5">EL TRECE </h1>
+      <img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=100 height=100><img src="https://www.cronista.com/__export/1521638854175/sites/diarioelcronista/img/2018/03/21/estacionamiento_crop1521638853663.png_258117318.png" width=400 height=300><img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=100 height=100>
       
     </main>
 
