@@ -48,7 +48,8 @@
     <!-- Begin page content -->
     <main role="main" class="container">
       <h1 class="mt-5">EL TRECE </h1>
-      <img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=100 height=100><img src="https://www.cronista.com/__export/1521638854175/sites/diarioelcronista/img/2018/03/21/estacionamiento_crop1521638853663.png_258117318.png" width=400 height=300><img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=100 height=100>
+      <h2 class="mt-3">atencion las 24 hs, los 365 dias del año</h2>
+      <img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=200 height=200><img src="https://www.cronista.com/__export/1521638854175/sites/diarioelcronista/img/2018/03/21/estacionamiento_crop1521638853663.png_258117318.png" width=500 height=400><img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=200 height=200>
       
     </main>
 

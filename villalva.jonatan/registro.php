@@ -8,7 +8,7 @@
     <link rel="icon" href="../../../../favicon.ico">
 
     <title>ESTACIONAMIENTO EL TRECE </title>
-
+    <body>
     <!-- Bootstrap core CSS -->
     <link href="bootstrap.min.css" rel="stylesheet">
 
