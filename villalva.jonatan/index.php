@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -35,6 +35,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link disabled" href="cargarvehiculo.php">CARGA DE VEHICULOS <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="conocenos.php">CONOCENOS <span class="sr-only">(current)</span></a>
             </li>
           </ul>
           <form class="form-inline mt-2 mt-md-0">

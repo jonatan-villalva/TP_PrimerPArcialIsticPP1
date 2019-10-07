@@ -2,3 +2,7 @@
 {"nombre":"jonatan","contrase\u00f1a":"123456"}{"nombre":"jona","contrase\u00f1a":"jona"}
 {"nombre":"jona","contrase\u00f1a":"jona"}
 {"nombre":"jona","contrase\u00f1a":"jona"}
+{"nombre":"jona","contrase\u00f1a":"jona"}
+{"nombre":"jona","contrase\u00f1a":"jona"}
+{"nombre":null,"contrase\u00f1a":null}
+{"nombre":"jonatan","contrase\u00f1a":"35171"}

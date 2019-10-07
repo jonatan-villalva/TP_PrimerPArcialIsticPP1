@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>ESTACIONAMIENTO VILLALVA S.A </title>
+    <title>ESTACIONAMIENTO EL TRECE </title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap.min.css" rel="stylesheet">
@@ -21,20 +21,23 @@
     <header>
       <!-- Fixed navbar -->
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="index.php">ESTACIONAMIENTO VILLALVA S.A</a>
+        <a class="navbar-brand" href="index.php">ESTACIONAMIENTO EL TRECE</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="registro.php">REGISTRARSE <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="registro.php">REGISTRO <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="login.php">INICIAR SESION <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="login.php">INICIO DE SESION <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="cargarvehiculo.php">CARGA DE VEHICULOS <span class="sr-only">(current)</span></a>
+              <a class="nav-link disabled" href="cargarVehiculo.php">CARGA DE VEHICULOS <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav link" href="facturar.php">FACTURAR <span class="sr-only">(current)</span></a>
             </li>
           </ul>
           <form class="form-inline mt-2 mt-md-0">
@@ -47,8 +50,15 @@
 
     <!-- Begin page content -->
     <main role="main" class="container">
-      <h1 class="mt-5">ESTACIONAMIENTO VILLALVA S.A </h1>
-      <img src="https://parquechasweb.com.ar/wp-content/uploads/2017/02/estacionar-gr-800x445.jpg" width=100 height=100><img src="https://laverdadonline.com/wp-content/uploads/2018/10/autos.jpg" width=400 height=300><img src="https://parquechasweb.com.ar/wp-content/uploads/2017/02/estacionar-gr-800x445.jpg" width=100 height=100>
+      <h1>BUSCAR DOMINIO DE VEHICULO</h1>
+          <form action="hacerFacturar.php">
+            <img src="https://us.cdn.eltribuno.com/072016/1487243186771.jpg" widht=100 height=200><br>
+            Dominio:<br>
+            <input type="text" name="dominio" value="">
+            <br>
+
+            <input type="submit" value="aceptar">
+          </form>
       
     </main>
 

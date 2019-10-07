@@ -28,16 +28,13 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="registro.php">REGISTRO <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="registro.php">REGISTRARSE <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="login.php">INICIO DE SESION <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="login.php">INICIAR SESION <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="cargarVehiculo.php">CARGA DE VEHICULOS <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="facturar.php">FACTURAR <span class="sr-only">(current)</span></a>
+              <a class="nav-link disabled" href="cargarvehiculo.php">CARGA DE VEHICULOS <span class="sr-only">(current)</span></a>
             </li>
           </ul>
           <form class="form-inline mt-2 mt-md-0">
@@ -50,14 +47,10 @@
 
     <!-- Begin page content -->
     <main role="main" class="container">
-      <h1>CARGUE DOMINIO DEL VEHICULO</h1>
-        <form action="hacervehiculo.php">
-              <img src="https://us.cdn.eltribuno.com/072016/1487243186771.jpg" width=100 height=100><br>
-              Dominio:<br>
-              <input type="text" name="dominio" value="">
-              <br>
-              <input type="submit" value="aceptar">
-        </form> 
+      <h1 class="mt-5">EL TRECE </h1>
+      <h2 class="mt-3">atencion las 24 hs, los 365 dias del año</h2>
+      <img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=200 height=200><img src="https://www.cronista.com/__export/1521638854175/sites/diarioelcronista/img/2018/03/21/estacionamiento_crop1521638853663.png_258117318.png" width=500 height=400><img src="https://cdn.infomistico.com/portal/wp-content/uploads/2014/07/13.jpg" width=200 height=200>
+      
     </main>
 
     <footer class="footer">
